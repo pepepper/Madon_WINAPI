@@ -3,7 +3,6 @@
 #include <openssl\ssl.h>
 #include <openssl\err.h>
 #include <openssl\bio.h>
-#include <parson.h>
 
 HWND hwndset;
 HANDLE  hfile;
